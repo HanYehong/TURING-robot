@@ -12,7 +12,7 @@ import java.net.URLEncoder;
 
 public class Util {
     //存储APIkey
-    public static final String API_KEY = "939203fabacc417d89a848c9905f6740";
+    public static final String API_KEY = "你的APIkey";
     //存储接口请求地址
     public static final String API_URL = "http://www.tuling123.com/openapi/api";
 
